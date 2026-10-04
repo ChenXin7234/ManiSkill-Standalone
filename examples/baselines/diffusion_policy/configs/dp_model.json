@@ -1,0 +1,14 @@
+{
+  "obs_horizon": 2,
+  "pred_horizon": 16,
+  "act_horizon": 8,
+  "encoder_dim": 128,
+  "task_embedding_dim": 32,
+  "adapter_rank": 16,
+  "diffusion_step_embed_dim": 64,
+  "unet_dims": [64, 128, 256],
+  "n_groups": 8,
+  "kernel_size": 5,
+  "num_train_timesteps": 100,
+  "num_inference_steps": 100
+}
