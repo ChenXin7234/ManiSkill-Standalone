@@ -1,5 +1,5 @@
 > **关于本仓库 / About this repository**  
-> 本仓库基于 [ManiSkill 官方项目](https://github.com/mani-skill/ManiSkill) 的 v3.0.1 版本，加入多任务 Diffusion Policy 相关代码，并作为独立仓库维护；这不是 ManiSkill 官方发布版本。  
+> 本仓库基于 [ManiSkill 官方项目](https://github.com/mani-skill/ManiSkill) 的 v3.0.1 版本，加入多任务 Diffusion Policy 相关代码，仅作为学校课程项目测试使用；这不是 ManiSkill 官方发布版本。  
 > This independent repository is based on the official [ManiSkill](https://github.com/mani-skill/ManiSkill) v3.0.1 release and includes multi-task Diffusion Policy code. It is not an official ManiSkill release.  
 > 新增实验配置引用仓库外的演示数据；运行相关训练脚本前，需自行准备这些数据。
 
